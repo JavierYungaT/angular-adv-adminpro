@@ -15,6 +15,7 @@ import { NopagesfoundComponent } from '../nopagesfound/nopagesfound.component';
   declarations: [
     AppComponent,
     NopagesfoundComponent,
+    
   ],
   imports: [
     BrowserModule,
